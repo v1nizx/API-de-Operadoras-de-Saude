@@ -1,0 +1,26 @@
+{
+  "info": {
+    "name": "Operadoras de Saúde",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Buscar Operadoras",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/operadoras?termo=saude&limite=5",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["operadoras"],
+          "query": [
+            {"key": "termo", "value": "saude"},
+            {"key": "limite", "value": "5"}
+          ]
+        }
+      }
+    }
+  ]
+}
