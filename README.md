@@ -9,7 +9,7 @@ Postman ou similar (para testar os endpoints)
 
 🚀 Instalação Rápida
 1. Clone o repositório (ou baixe os arquivos)
-git clone [https://github.com/seu-usuario/api-operadoras-saude.git](https://github.com/v1nizx/API-de-Operadoras-de-Saude)
+git clone [https://github.com/v1nizx/API-de-Operadoras-de-Saude]
 cd api-operadoras-saude
 
 2. Crie e ative um ambiente virtual (recomendado)
